@@ -12,6 +12,6 @@ This is a Tic-Tac-Toe game implementation using the _**Minimax algorithm**_ for 
 pip install requirements.txt
 ```
 2. Run the game script.
-3. Take turns marking empty spaces on the board by entering the corresponding cell number (usually 1-9 for a 3x3 grid).
+3. Take turns marking empty spaces on the board by clicking the corresponding cell.
 4. The computer will make its move based on the Minimax algorithm.
 5. The game continues until there is a winner or a draw.
