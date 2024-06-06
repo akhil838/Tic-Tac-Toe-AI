@@ -1,4 +1,4 @@
-This is a Tic-Tac-Toe game implementation using the _**Minimax algorithm**_ for AI decision-making. The Minimax algorithm allows the computer to play optimally, guaranteeing a win or a draw against any opponent.
+This is a Tic-Tac-Toe game implementation using the _**Minimax algorithm**_ for AI decision-making.</br>The Minimax algorithm allows the computer to play optimally, guaranteeing a win or a draw against any opponent.<br/><br/>
 ![image](https://github.com/akhil838/Tic-Tac-Toe-AI/assets/64255484/1a14b756-1a9b-4056-8a8c-fe8c88c11416)
 
 ## Features
