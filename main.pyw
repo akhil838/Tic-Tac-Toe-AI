@@ -149,7 +149,11 @@ def bestmove(arr, p1, p2):
         #print('list of available moves', a)
         move = random.choice(a)
         #print(move)
-    return move if bestmove2 == -1 else bestmove2
+    
+    if bestdepth == 0 or bestmove2 == -1:
+        return move
+    else:
+        return bestmove2
 
 ## MARK PLAYER MOVES
 def label(arr, num):
